@@ -1,5 +1,3 @@
-##Abstract
-
 The goal of this project was to take reinforcement learn-
 ing algorithms and apply each of them to multiple domains.
 We chose Deep Q-Learning (DQN), Proximal Policy Op-
